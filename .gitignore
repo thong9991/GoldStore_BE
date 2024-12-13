@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+secret/
+
+# Environment variable
+*.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.*.local
+
+# Other
+.DS_Store
